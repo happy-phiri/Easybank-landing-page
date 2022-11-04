@@ -482,7 +482,7 @@ footer li {
     }
     .hero-text {
         padding: 50px 25px;
-        margin-top: 0;
+        margin-top: 20px;
     }
     .hero-text h1, .features h2, .articles h2 {
         font-size: 1.85rem;
